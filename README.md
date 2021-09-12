@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhijith-ka
-- 👀 I’m interested in Linux, Cloud, Devops
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate in Devops tools concepts
+- 👀 I’m interested in Linux, Cloud, DevOps
+- 🌱 I’m currently learning DevOps
 - 📫 You may reach me on kaabhijithajay@gmail.com
 
 <!---
